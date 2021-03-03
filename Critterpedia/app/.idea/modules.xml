@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2142774655/Critterpedia.iml" filepath="$PROJECT_DIR$/.idea/modules/-2142774655/Critterpedia.iml" group="Critterpedia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Critterpedia/app" />
+    </modules>
+  </component>
+</project>

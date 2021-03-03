@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Critterpedia</string>
+    <string name="title_critter_list">Critters</string>
+    <string name="title_critter_detail">Critter Detail</string>
+    <string name="btnExplore">Explore</string>
+    <string name="tvProfileName">Profile Name</string>
+    <string name="ivAvatar">Avatar Pic</string>
+    <string name="etName">Name</string>
+
+    <string-array name="Fish">
+        <item>Anchovy</item>
+        <item>Angelfish</item>
+        <item>Arapaima</item>
+        <item>Arowana</item>
+        <item>Barred Knifejaw</item>
+        <item>Barreleye</item>
+        <item>Betta</item>
+        <item>Bitterling</item>
+        <item>Black Bass</item>
+        <item>Blowfish</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

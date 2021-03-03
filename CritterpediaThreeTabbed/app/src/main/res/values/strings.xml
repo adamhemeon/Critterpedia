@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Critterpedia</string>
+    <string name="title_item_detail">Critter Item Detail</string>
+    <string name="title_activity_launch">Critterpedia</string>
+
+    <string name="critter">Critter</string>
+    <string name="tab_fish">Fish</string>
+    <string name="tab_bugs">Bugs</string>
+    <string name="tab_deep_sea_creatures">Sea Creatures</string>
+    <string name="cat_tab_item_label">Tab %d</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="anchovy">Anchovy</string>
+
+    <string-array name="Fish">
+        <item>@string/anchovy</item>
+    </string-array>
+
+    <string-array name="Bugs">
+        <item>Agrias Butterfly</item>
+    </string-array>
+
+    <string-array name="SeaCreatures">
+        <item>Abalone</item>
+    </string-array>
+
+</resources>
