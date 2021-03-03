@@ -1,0 +1,2 @@
+# Critterpedia
+This is an Android app that uses a three tabbed Master Detail Flow to display Nintendo's Animal Crossing Critterpedia info for Fish, Bugs, and Sea Creatures. I used Kotlin as I started with a template I found on GitHub that provides multiple tabs using nav graphs for the Android default MDF template. I hope to pull the data in this application from the public facing Animal Crossing API: http://acnhapi.com/ 
